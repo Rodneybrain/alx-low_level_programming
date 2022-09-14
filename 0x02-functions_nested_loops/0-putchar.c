@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
-*main - prints _putchar, follwed by a new line
-*Return: Always 0 (Success)
+* main - prints _putchar, follwed by a new line
+* Return: Always 0 (Success)
 */
 int main (void)
 {
-	char cli []  = "_putchar:;
+	char cli []  = "_putchar";
 
 	int c;
 
